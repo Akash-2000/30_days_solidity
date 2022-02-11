@@ -1,2 +1,3 @@
-# 30_days_solidity
-learn solidity concepts using coding 
+# 30 days solidity
+
+learn solidity basic concepts using coding
